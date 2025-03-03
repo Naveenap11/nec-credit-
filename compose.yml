@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  ml-model:
+    image: naveenapalanisamy/22it027-ml-model:latest
+    ports:
+      - "5000:5000"
+  tharshini:
+    image: "tharshini27/22it050-personal-api:latest"
+    ports:
+      - "5001:5000"
