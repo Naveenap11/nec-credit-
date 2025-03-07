@@ -6,6 +6,9 @@
 
 ![image](https://github.com/user-attachments/assets/3d192be7-4561-4029-879e-80f35aaed44e)
 
+### `docker compose up -d`
+![image](https://github.com/user-attachments/assets/3e756caa-c95d-4ec6-8f55-064504d1dd52)
+
 
 
 ### OUTPUT:
