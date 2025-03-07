@@ -2,9 +2,19 @@
 ![image](https://github.com/user-attachments/assets/83401f74-02f0-4862-9979-6186c9d55c81)
 
 
-### Step 2: use commands 1.docker build -t personal-api . 2.docker run -d -p 5000:5000 personal-api
+### Step 2: use commands 1.docker build -t personal-api . 
 
 ![image](https://github.com/user-attachments/assets/3d192be7-4561-4029-879e-80f35aaed44e)
+### docker images
+![Screenshot 2025-03-03 214955](https://github.com/user-attachments/assets/d4dfe3aa-05c0-422d-94a5-967ec52c95e3)
+### docker push 
+![Screenshot 2025-03-03 215601](https://github.com/user-attachments/assets/e48356d9-d7c2-410a-9136-50d2c801b1c9)
+### docker tag
+![Screenshot 2025-03-03 215710](https://github.com/user-attachments/assets/6441a098-2e66-4878-8df9-14f198fb0551)
+### docker compose up
+![Screenshot 2025-03-03 224555](https://github.com/user-attachments/assets/68d00766-6cf5-42d5-b84a-a0395dd95098)
+
+
 
 ### `docker compose up -d`
 ![image](https://github.com/user-attachments/assets/3e756caa-c95d-4ec6-8f55-064504d1dd52)
